@@ -1,0 +1,16 @@
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\Öğrenci-Not-Hesaplama-Sistemi\Öğrenci-Not-Hesaplama-Sistemi\bin\Debug\net8.0-windows\Öğrenci-Not-Hesaplama-Sistemi.exe
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\Öğrenci-Not-Hesaplama-Sistemi\Öğrenci-Not-Hesaplama-Sistemi\bin\Debug\net8.0-windows\Öğrenci-Not-Hesaplama-Sistemi.deps.json
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\Öğrenci-Not-Hesaplama-Sistemi\Öğrenci-Not-Hesaplama-Sistemi\bin\Debug\net8.0-windows\Öğrenci-Not-Hesaplama-Sistemi.runtimeconfig.json
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\Öğrenci-Not-Hesaplama-Sistemi\Öğrenci-Not-Hesaplama-Sistemi\bin\Debug\net8.0-windows\Öğrenci-Not-Hesaplama-Sistemi.dll
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\Öğrenci-Not-Hesaplama-Sistemi\Öğrenci-Not-Hesaplama-Sistemi\bin\Debug\net8.0-windows\Öğrenci-Not-Hesaplama-Sistemi.pdb
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\Öğrenci-Not-Hesaplama-Sistemi\Öğrenci-Not-Hesaplama-Sistemi\obj\Debug\net8.0-windows\Öğrenci_Not_Hesaplama_Sistemi.Form1.resources
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\Öğrenci-Not-Hesaplama-Sistemi\Öğrenci-Not-Hesaplama-Sistemi\obj\Debug\net8.0-windows\Öğrenci-Not-Hesaplama-Sistemi.csproj.GenerateResource.cache
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\Öğrenci-Not-Hesaplama-Sistemi\Öğrenci-Not-Hesaplama-Sistemi\obj\Debug\net8.0-windows\Öğrenci-Not-Hesaplama-Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\Öğrenci-Not-Hesaplama-Sistemi\Öğrenci-Not-Hesaplama-Sistemi\obj\Debug\net8.0-windows\Öğrenci-Not-Hesaplama-Sistemi.AssemblyInfoInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\Öğrenci-Not-Hesaplama-Sistemi\Öğrenci-Not-Hesaplama-Sistemi\obj\Debug\net8.0-windows\Öğrenci-Not-Hesaplama-Sistemi.AssemblyInfo.cs
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\Öğrenci-Not-Hesaplama-Sistemi\Öğrenci-Not-Hesaplama-Sistemi\obj\Debug\net8.0-windows\Öğrenci-Not-Hesaplama-Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\Öğrenci-Not-Hesaplama-Sistemi\Öğrenci-Not-Hesaplama-Sistemi\obj\Debug\net8.0-windows\Öğrenci-Not-Hesaplama-Sistemi.dll
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\Öğrenci-Not-Hesaplama-Sistemi\Öğrenci-Not-Hesaplama-Sistemi\obj\Debug\net8.0-windows\refint\Öğrenci-Not-Hesaplama-Sistemi.dll
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\Öğrenci-Not-Hesaplama-Sistemi\Öğrenci-Not-Hesaplama-Sistemi\obj\Debug\net8.0-windows\Öğrenci-Not-Hesaplama-Sistemi.pdb
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\Öğrenci-Not-Hesaplama-Sistemi\Öğrenci-Not-Hesaplama-Sistemi\obj\Debug\net8.0-windows\Öğrenci-Not-Hesaplama-Sistemi.genruntimeconfig.cache
+C:\Users\berka\OneDrive\Masaüstü\C# Projects\Öğrenci-Not-Hesaplama-Sistemi\Öğrenci-Not-Hesaplama-Sistemi\obj\Debug\net8.0-windows\ref\Öğrenci-Not-Hesaplama-Sistemi.dll
